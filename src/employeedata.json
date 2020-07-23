@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Bob User",
+      "role": "Farmer",
+      "salary": 500000,
+      "manager": "Sam"
+    },
+    {
+      "id": 2,
+      "name": "Sam Ida",
+      "role": "CEO",
+      "salary": 100000,
+      "manager": "Preston"
+    },
+    {
+      "id": 3,
+      "name": "Preston Garvey",
+      "role": "President",
+      "salary": 600000,
+      "manager": ""
+    },
+    {
+      "id": 4,
+      "name": "Jasmine Rose",
+      "role": "Pope",
+      "salary": 90000,
+      "manager": "Sam"
+    },
+    {
+      "id": 5,
+      "name": "Jade Smith",
+      "role": "Lawn keeper",
+      "salary": 800000,
+      "manager": "Sam"
+    }
+  ]
