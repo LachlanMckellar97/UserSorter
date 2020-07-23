@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LachlanMckellar97/UserSorter/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/LachlanMckellar97/UserSorter/static/js/main.f2183872.chunk.js",
+    "main.js.map": "/LachlanMckellar97/UserSorter/static/js/main.f2183872.chunk.js.map",
+    "runtime-main.js": "/LachlanMckellar97/UserSorter/static/js/runtime-main.c5e8a7bb.js",
+    "runtime-main.js.map": "/LachlanMckellar97/UserSorter/static/js/runtime-main.c5e8a7bb.js.map",
+    "static/js/2.53217886.chunk.js": "/LachlanMckellar97/UserSorter/static/js/2.53217886.chunk.js",
+    "static/js/2.53217886.chunk.js.map": "/LachlanMckellar97/UserSorter/static/js/2.53217886.chunk.js.map",
+    "index.html": "/LachlanMckellar97/UserSorter/index.html",
+    "precache-manifest.575abb21e6e1649628ccbd687600904c.js": "/LachlanMckellar97/UserSorter/precache-manifest.575abb21e6e1649628ccbd687600904c.js",
+    "service-worker.js": "/LachlanMckellar97/UserSorter/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/LachlanMckellar97/UserSorter/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.53217886.chunk.js.LICENSE.txt": "/LachlanMckellar97/UserSorter/static/js/2.53217886.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5e8a7bb.js",
+    "static/js/2.53217886.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.f2183872.chunk.js"
+  ]
+}
