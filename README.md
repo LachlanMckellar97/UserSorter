@@ -4,7 +4,7 @@
   ---
 
 ## Description:
-A react based add to sort through users.
+A react based app to sort through users.
 
 ---
 
